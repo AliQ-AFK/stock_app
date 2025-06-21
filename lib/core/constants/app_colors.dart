@@ -40,4 +40,4 @@ class AppColors {
   // Method to set theme (this is a flag basically)
   static void setDarkMode(bool isDark) {
     _isDarkMode = isDark;
-  }
+  }}
