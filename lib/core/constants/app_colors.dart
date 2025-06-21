@@ -13,7 +13,7 @@ class AppColors {
   static const Color lightBGDashPort = Color(0xFFA4A4A4);
 
   // Dark Theme Colors copied straight from figma
-  static const Color darkRed = Color(0xFFFFAA1A1);
+  static const Color darkRed = Color(0xFFFFA1A1);
   static const Color darkText = Color(0xFFF2F2F2);
   static const Color darkBG = Color(0xFF1C1C1C);
   static const Color darkGreyBG = Color(0xFFD9D9D9);
